@@ -1,0 +1,17 @@
+{
+  "name": "ffi",
+  "version": "1.0.0",
+  "description": "Credit goes to [bogdanfinn](https://github.com/bogdanfinn) for making this possible ❤️",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "koffi": "^2.10.1"
+  }
+}
