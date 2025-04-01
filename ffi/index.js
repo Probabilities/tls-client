@@ -289,8 +289,6 @@ const getLibraryPath = () => {
     }
 };
 
-const libraryPath = gLibraryPath();
-
 // View all available options for tls : https://bogdanfinn.gitbook.io/open-source-oasis/shared-library/payload
 const client = new TLSClient({
     disableIPV6: true,
